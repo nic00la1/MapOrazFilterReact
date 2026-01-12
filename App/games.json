@@ -1,0 +1,22 @@
+[
+    {"id": 1, "title": "Eternal Skyfall", "genre": "Action", "releaseYear": 2018, "count": 0},
+    {"id": 2, "title": "Mystic Grove", "genre": "RPG", "releaseYear": 2020, "count": 0},
+    {"id": 3, "title": "Quantum Drifters", "genre": "Sci-Fi", "releaseYear": 2023, "count": 0},
+    {"id": 4, "title": "Sunken Realms", "genre": "Adventure", "releaseYear": 2019, "count": 0},
+    {"id": 5, "title": "Iron Vanguard", "genre": "Action", "releaseYear": 2021, "count": 0},
+    {"id": 6, "title": "Legends od Valoria", "genre": "RPG", "releaseYear": 2017, "count": 0},
+    {"id": 7, "title": "Nebula Frontier", "genre": "Sci-Fi", "releaseYear": 2024, "count": 0},
+    {"id": 8, "title": "Whisperwind Tales", "genre": "Adventure", "releaseYear": 2016, "count": 0},
+    {"id": 9, "title": "Shadowbreak Protocol", "genre": "Action", "releaseYear": 2022, "count": 0},
+    {"id": 10, "title": "Runeborn Saga", "genre": "RPG", "releaseYear": 2015, "count": 0},
+    {"id": 11, "title": "Starlight Expanse", "genre": "Sci-Fi", "releaseYear": 2018, "count": 0},
+    {"id": 12, "title": "Voyage of Emberfall", "genre": "Adventure", "releaseYear": 2023, "count": 0},
+    {"id": 13, "title": "Crimson Rift", "genre": "Action", "releaseYear": 2014, "count": 0},
+    {"id": 14, "title": "Chronicles of Astravia", "genre": "RPG", "releaseYear": 2022, "count": 0},
+    {"id": 15, "title": "Galactic Overmind", "genre": "Sci-Fi", "releaseYear": 2019, "count": 0},
+    {"id": 16, "title": "Isles of the Forgotten", "genre": "Adventure", "releaseYear": 2021, "count": 0},
+    {"id": 17, "title": "Arcblade Reborn", "genre": "Action", "releaseYear": 2020, "count": 0},
+    {"id": 18, "title": "Elderwood Prophecy", "genre": "RPG", "releaseYear": 2013, "count": 0},
+    {"id": 19, "title": "Voidrunner Echo", "genre": "Sci-Fi", "releaseYear": 2024, "count": 0},
+    {"id": 20, "title": "Path of the Wayfarer", "genre": "Adventure", "releaseYear": 2017, "count": 0}
+]
